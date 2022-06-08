@@ -1,0 +1,35 @@
+
+ * Question 1: Introduce yourself:
+
+ Hi,
+
+ My name is Mohamed, I’m 29 years old, I’m from Tunisia, and I was born in Gabès on May 15,1993.
+ I have a bachelor in Mathematic, then I have attended the preparatory school of engineering study, 
+ and finaly I have passed three years studying Electical Engineering  in National school of engineering.
+ I have studied also web develepment basic on Java Script for front-and-back-end.
+ I speak 4 languages: Arbic, french, English and German. And I have 2 years Experience with a foreign
+ company.
+
+ * Question 2: Name three reasons that you should be recruited instead of another candidate:
+
+ I believe that my experience with technology, specifically in the web design space, make me the best match for this position. 
+ In my previous job, I was responsible for maintaining and updating our company website. This required keeping employee profiles
+ updated and continuously posting information regarding upcoming events. I truly enjoyed what I was doing, which is what drew 
+ me to this position with your company. I would love to bring the coding and content skills I learned there to this position.
+
+ * Question 3: Are you responsible?
+
+ Yes I am a responsible person, I am able to consciously make decisions, conduct behaviors that seek to improve oneself and help others.
+ And of course I accept the consequences of my own actions and decisions.
+
+ * Question 4: Tell me about your academic training.
+
+ I have a bachelor in Mathematic, then I have attended the preparatory school of engineering study, 
+ and finaly I have passed three years studying Electical Engineering  in National school of engineering.
+ I have studied also web develepment basic on Java Script for front-and-back-end.
+
+ * Question 5: Name three of your flaws:
+
+ - Inexperience with specific software or a non-essential skill.
+ - Tendency to take on too much responsibility.
+ - Nervousness about public speaking.
